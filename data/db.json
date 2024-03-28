@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "post",
+      "datetime": "March 27, 2024 6:43:43 PM",
+      "body": "post"
+    },
+    {
+      "id": 2,
+      "title": "lol",
+      "datetime": "March 27, 2024 6:44:57 PM",
+      "body": "lol"
+    },
+    {
+      "id": 3,
+      "title": "hey",
+      "datetime": "March 27, 2024 7:05:38 PM",
+      "body": "lll"
+    },
+    {
+      "id": 4,
+      "title": "hey",
+      "datetime": "March 27, 2024 7:07:28 PM",
+      "body": "hey"
+    },
+    {
+      "id": 5,
+      "title": "ol",
+      "datetime": "March 27, 2024 7:23:48 PM",
+      "body": "ol"
+    }
+  ]
+}
